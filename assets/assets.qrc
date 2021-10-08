@@ -1,0 +1,10 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource>
+  <file>bishop.obj</file>
+  <file>king.obj</file>
+  <file>knight.obj</file>
+  <file>pawn.obj</file>
+  <file>queen.obj</file>
+  <file>rook.obj</file>
+</qresource>
+</RCC>
